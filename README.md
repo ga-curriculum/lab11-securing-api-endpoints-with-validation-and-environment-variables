@@ -1,6 +1,6 @@
 ## **Lab: Securing API Endpoints with Validation and Environment Variables**
 
-[Workflow](https://git.generalassemb.ly/back-end-development-with-javascript/Lab11_Securing-API-Endpoints-with-Validation-and-Environment-Variables/blob/main/Securing%20API%20endpoints%20with%20validation.png)
+[Workflow](./Securing%20API%20endpoints%20with%20validation.png)
 
 **Prerequisites:**
 
